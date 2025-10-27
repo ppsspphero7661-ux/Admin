@@ -20,12 +20,6 @@
   },
   "users": [
     {
-      "username": "test_user",
-      "password": "test_pass",
-      "device_id": "8e3d64c8-3c99-44d5-947b-example00002",
-      "expiry_date_utc": "2024-11-01"
-    },
-    {
       "username": "user123",
       "password": "pass456",
       "device_id": "8e3d64c8-3c99-44d5-947b-example00001",
